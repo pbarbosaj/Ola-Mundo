@@ -1,0 +1,19 @@
+Curso em video Java script
+
+Aula 08
+
+operadores do Java script part 2 =
+
+
+ARITMETICOS: + - * / % ** (fazer calculo)
+
+ATRIBUIÇÃO: = (n = n + 2)
+
+RELACIONAIS: < > <= >=  == === !=
+
+LOGICOS: !negaçao(true ou false) &&conjunçao(true/true, true/false, false/true, false/false)(And) ||disjunçao(Nand)
+
+TERNARIOS: ? : (teste / true / false) 
+var idade =19
+var r = idade >= 18 ? 'maior' : 'menos'
+'maior'

@@ -1,0 +1,21 @@
+Curso em video Java script
+
+Aula 09
+
+Entendendo o DOM = document object model
+
+Introdução ao DOM
+
+
+instalado as extensoes live server ( go live) / node.js execx
+
+Selecionar Elentos=
+
+por Marca: getElementsByTagName()
+por ID: getElementById()
+por Nome: getElementsByName()
+por Classe: getElementsByClassName()
+por Seletor: querySelector()/querySelectorAll()
+
+
+

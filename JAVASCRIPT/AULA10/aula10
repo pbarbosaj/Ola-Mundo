@@ -1,0 +1,36 @@
+Curso em video Java script
+
+Aula 10
+
+Entendendo o DOM = document object model
+
+Eventos DOM
+
+<div>
+
+eventos q ocorrem como mouse
+
+mouseenter = mouse passar pra dentro da DIV
+
+mousemove = enquanto mover o mouse
+
+mousedown = ao clicar o mouse
+
+mouseup = ao desclicar o mouse
+
+click = 
+
+mouseout = mover o mouse pra fora da DIV
+
+
+obs: procurar no google a pagina EVENT REFERENCE (eventos de DOM)
+
+
+
+            var tn1 = window.document.getElementById('txtn1')
+            var tn2 = window.document.querySelector('input#txtn2')
+            var res = window.document.getElementById('res')
+            var n1 = Number(tn1.value)
+            var n2 = Number(tn2.value)
+            var s = n1 + n2
+            res.innerHTML = `A soma entre ${n1} e ${n2} é igual a ${s}'

@@ -1,0 +1,16 @@
+Curso em video Java script
+
+Aula 07 
+
+operadores do Java script part 1 =
+
+
+ARITMETICOS: + - * / % ** (fazer calculo)
+
+ATRIBUIÇÃO: = 
+
+RELACIONAIS
+
+LOGICOS
+
+TERNARIOS

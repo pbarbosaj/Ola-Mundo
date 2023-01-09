@@ -1,0 +1,20 @@
+Curso em video Java script
+
+Aula 11
+
+Condiçoes part 1:
+
+if(condicao) { } TRUE
+
+else { } FALSE
+
+TIPOS DE CONDIÇÃO=
+simples : if
+composta : if/else 
+
+obs: para ligar o console no visual code so apertar o F8
+
+comsole.log (escreve na tela console qndo esta em .JS)
+
+obs += no res.innerHTML ( faz com que nao apague a ultima linha e adicione a inf em seguinte)
+

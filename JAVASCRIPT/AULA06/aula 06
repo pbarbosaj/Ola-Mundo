@@ -1,0 +1,59 @@
+Curso em Video 
+Aula 06
+
+Tratamento de Dados:
+
+NUMBER / STRING / BOOLEAN / NULL / UNDEFINED / ARRAY / FUNCITION / OBJECT /
+
+# // Guardando
+
+	window.prompt('Qual é seu nome")
+	window.alert('É um grande prazer lhe conhecer, '+ nome + '!') // contatenaçao
+
+	var nome =  window.prompt('Qual é o seu nome?');//vai perguntar o nome...
+	
+	*obs: var ou let ou const (ambos significam a mesma coisa)
+	
+	*obs: comentarios
+		java script //
+		css /*  */
+		html <!--   -->
+		
+	*obs: window.alert lhe enytrega uma string com isso concatena o resultado
+	
+	*obs: Number.parseInt(n) = converte string para number inteiro
+		  Number.parseFloat(n) = converte string para number real
+		  Number(n) = hoje o java script se vira para fazer a conta
+		  
+	*obs: String(n)= converte numero para string
+		  n.toString() = converte numero para string
+		  
+#// formatando string no NODE
+
+var s = Java Script
+'eu estou estudando ' + script = eu estou estudando Java Script	
+
+// template string
+$()
+'o aluno $(nome) com $(iadade) tirou nota $(nota).	  
+
+// outras
+s.length = quantos caracteres a string tem
+s.toUpperCase() tudo para 'Maiusculas'
+s.toLowerCase() tudo para 1'Minusculas'
+<strong></strong> = Negrito
+
+#// formatando numeros
+n1.toFixed(2) = para duas casas apos o ponto
+n1.toFixed(2).replace('.', ',') = vc trocara o . pela ,
+
+n1.toLocaleString('pT-BR', {style: 'currency', currency: 'BRL'})
+n1.toLocaleString('pT-BR', {style: 'currency', currency: 'USD'})
+n1.toLocaleString('pT-BR', {style: 'currency', currency: 'EUR'})
+
+
+
+
+
+
+	
